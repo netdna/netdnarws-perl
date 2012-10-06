@@ -3,16 +3,25 @@
 ## Requirements (open cpan)
 
 `install JSON`
+
 `install Net::OAuth;`
+
 `install LWP::UserAgent;`
+
 `install URI;`
+
 `install Data::Dumper;`
+
 `install IO::Socket::SSL`
+
 `install LWP::Protocol::https`
+
 
 ## Installation
 `wget https://github.com/netdna/netdnarws-perl/zipball/master`
+
 `unzip master`
+
 `cd netdna-netdnarws-perl-b05c6b7/`
 
 ## Usage
