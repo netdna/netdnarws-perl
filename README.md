@@ -4,13 +4,13 @@
 
 `install JSON`
 
-`install Net::OAuth;`
+`install Net::OAuth`
 
-`install LWP::UserAgent;`
+`install LWP::UserAgent`
 
-`install URI;`
+`install URI`
 
-`install Data::Dumper;`
+`install Data::Dumper`
 
 `install IO::Socket::SSL`
 
